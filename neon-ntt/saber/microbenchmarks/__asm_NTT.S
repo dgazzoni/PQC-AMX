@@ -1,0 +1,1 @@
+../ntt/__asm_NTT.S
